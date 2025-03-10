@@ -1,6 +1,6 @@
 # Next Notes
 
-Codex Memoriae is a Next.js application that allows creating, reading, updating, and deleting (CRUD) notes. This project serves as an experimental playground for testing various technologies and features.
+Next Notes is a Next.js application that allows creating, reading, updating, and deleting (CRUD) notes. This project serves as an experimental playground for testing various technologies and features.
 
 ## 🚀 Tech Stack
 
@@ -15,7 +15,7 @@ Clone the project and install dependencies:
 
 ```bash
 git clone https://github.com/your-username/next-notes.git
-cd codex-memoriae
+cd next-notes
 npm install
 ```
 
